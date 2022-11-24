@@ -12,3 +12,14 @@
 <img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669294568/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2022-11-24_215529_jcwakx.png" width="40%" height="30%">
 <img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669294568/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2022-11-24_215540_pyej4k.png" width="40%" height="30%">
 </p>
+
+### 4️⃣ 주요기능
+
+<table>
+  <td>
+  <th>보기/상세보기</th>
+  <th>입력</th>
+  <th>수정</th>
+  <th>삭제</th>
+  </td>
+</table>

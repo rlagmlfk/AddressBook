@@ -16,10 +16,10 @@
 ### 4️⃣ 주요기능
 
 <table>
-  <tr>
+  <td>
     <th>보기/상세보기</th>
     <th>입력</th>
     <th>수정</th>
     <th>삭제</th>
-  </tr>
+  </td>
 </table>

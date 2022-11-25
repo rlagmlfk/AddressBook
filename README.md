@@ -9,7 +9,12 @@
 <img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669368596/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2022-11-25_182729_bapzsa.png" width="40%" height="30%">
 <img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669293941/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2022-11-24_210031_em4dvx.png" width="80%" height="50%">
 
-### 4️⃣ 구현화면
+### 4️⃣ 사용기술 및 환경
+
+* Backend - JAVA (Eclipse)
+* DB - ORACLE (Toad)
+
+### 5️⃣ 구현화면
 <br />
 <p align="center">
 <img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669293940/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2022-11-24_205931_asxmnb.png" width="40%" height="30%">

@@ -7,7 +7,7 @@
 ### 3️⃣ DB 설계
 
 <img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669368596/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2022-11-25_182729_bapzsa.png" width="40%" height="30%">
-<img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669293941/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2022-11-24_210031_em4dvx.png" width="40%" height="50%">
+<img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669293941/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2022-11-24_210031_em4dvx.png" width="80%" height="50%">
 
 ### 4️⃣ 구현화면
 <br />

@@ -24,7 +24,7 @@
 <img src="https://res.cloudinary.com/dgtqsljjl/image/upload/v1669297171/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2022-11-24_223653_d6tzzt.png" width="30%" height="30%">
 </p>
 
-### 5️⃣ 주요기능
+### 6️⃣ 주요기능
 
 #### 1. 전체조회/상세조회
 #### 2. 입력
